@@ -1,0 +1,21 @@
+h1{
+   text-align: center;
+}
+body{
+   background-image: url(https://static.wikia.nocookie.net/fnafapedia/images/3/31/OfficeClean.png/revision/latest/scale-to-width-down/1200?cb=20151213220428);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+
+   
+}
+h1 {
+  font-family: "OCR A Extended", "OCR A Std", monospace;
+}
+h2 {
+  font-family: "OCR A Extended", "OCR A Std", monospace;
+}
+h3 {
+  font-family: "OCR A Extended", "OCR A Std", monospace;
+}
