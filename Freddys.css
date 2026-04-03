@@ -17,10 +17,11 @@ h3 {
 <head>
 <style>
 body {
-   background: url("https://static.wikia.nocookie.net/fnafapedia/images/3/31/OfficeClean.png/revision/latest/scale-to-width-down/1200?cb=20151213220428");
+  body{
+   background-image: url(https://i.imgur.com/qX0uwBK.png);
    background-repeat: no-repeat;
-   background-size:contain;
-   background-position: center;
+   background-size: cover;
+   
 }
 </style>
 </head>
