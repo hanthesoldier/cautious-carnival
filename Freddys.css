@@ -1,27 +1,12 @@
-<html>
-<head>
-<style>
-body {
-  body{
-   background-image: url(https://i.imgur.com/qX0uwBK.png);
-   background-repeat: no-repeat;
-   background-size: cover;
-   
-}
-</style>
-</head>
-<body>
-
-</body>
-</html>
-
-
-
 h1{
    text-align: center;
 }
+body{
+   background-image: url(https://i.imgur.com/qX0uwBK.png);
+   background-repeat: no-repeat;
+   background-size: cover;
 
-   
+
 }
 h1 {
   font-family: "OCR A Extended", "OCR A Std", monospace;
